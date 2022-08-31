@@ -16,3 +16,5 @@ Before you install, you have something to do:
 
 Then you can run the file [after-disk-partitioned.sh](after-disk-partitioned.sh)
 
+* To add Clansty's Archlinux Repository, please follow the guide [Clansty's Archlinux Repository](https://pacman.ltd/)
+
